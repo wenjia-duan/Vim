@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/data1/mm64/mmdev/bin'
+let g:netrw_dirhist_2='/data1/mm64/qspace/etc/mmpayca'
+let g:netrw_dirhist_3='/data1/mm64/gavinduan/mybin/mylib/include'
